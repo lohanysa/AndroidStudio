@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PDS6</string>
+    <string name="titulo_busqueda">Busqueda</string>
+    <string name="titulo_cedula">Cedula</string>
+    <string name="ingrese_cedula">Ingrese su cedula</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="titulo_correo">Correo</string>
+    <string name="despliegue_correo">correo</string>
+</resources>
